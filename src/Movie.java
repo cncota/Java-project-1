@@ -1,4 +1,4 @@
-//Claudia Cota ID:60341850
+
 public class Movie{
 	
 	private int durationMin;
